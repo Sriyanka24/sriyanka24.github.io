@@ -1,5 +1,11 @@
 title: Sai Sriyanka Konduru
-logo: /assets/img/headshot_circle.png
-description: Data Analyst
-#show_downloads: true
+logo: "/profile.png?raw=true" 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Data Analytics and Engineering
+   <br><br>
+  <a href="mailto:sriyanka2404@gmail.com">sriyanka2404@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/saisriyanka/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.github.com/Sriyanka24">Github</a> 
 theme: jekyll-theme-minimal
