@@ -1,5 +1,3 @@
-# sriyanka24.github.io
-Personal Website
 ## Portfolio
 
 #### Data Analyst | M.Sc. Web and Data Science, University of Koblenz, Germany.
