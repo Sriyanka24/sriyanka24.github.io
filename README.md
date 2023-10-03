@@ -4,11 +4,19 @@ Personal Website
 
 #### Data Analyst | M.Sc. Web and Data Science, University of Koblenz, Germany.
 
-Hello and welcome to my portfolio website! I'm a highly dedicated and motivated Data person on the verge of completing my Master's degree in Data Science. With a strong background in data analytics and hands-on experience in tackling complex data engineering challenges, I'm here to showcase my journey and the impactful projects I've undertaken. I thrive on transforming raw data into actionable insights, enabling data-driven decisions, and making a real difference.
+<p align='justify'>Hello and welcome to my portfolio website! I'm a highly dedicated and motivated Data person on the verge of completing my Master's degree in Data Science. With a strong background in data analytics and hands-on experience in tackling complex data engineering challenges, I'm here to showcase my journey and the impactful projects I've undertaken. I thrive on transforming raw data into actionable insights, enabling data-driven decisions, and making a real difference.</p>
 
 ---
 
 #### Technical Skills: Advanced Python, SQL, AWS Cloud, PySpark, Tableau, Excel, Mathematics & Statistics, R, Azure, Power BI, NoSQL, Hadoop, Kafka, Git, Jira, Confluence, Data Warehousing, DBMS, Databricks, Data Quality & Security, BigQuery, Data Modeling, Google Analytics
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
+  <img src='https://miro.medium.com/max/3128/1*sQGVLk43kXJTEw1mtJRoDw.png' alt="pyspark" width="80" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' height='40' width='auto' alt="sql">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="auto" height="30"/>
+   <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="excel" width="40" height="40"/>
+   <img src="https://d1.awsstatic.com/china/hp/partners/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png" alt="tableau" width="140" height="40"/>
+</p>
 
 
 ## Work Experience
