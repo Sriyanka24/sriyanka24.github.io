@@ -6,7 +6,7 @@
 
 ---
 
-#### Technical Skills: Python, SQL, AWS, PySpark, Tableau, Excel, Mathematics & Statistics, R, Azure, Apache, Airflow, MS Power BI, NoSQL, Hadoop, Kafka Git, Jira, Confluence, ETL/ELT Development, Data Warehousing, Database Management, Databricks, Data Quality & Security, Data Modeling, Data Analytics, Apache Spark, Map-Reduce, Scala
+#### Technical Skills: 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
   <img src='https://miro.medium.com/max/3128/1*sQGVLk43kXJTEw1mtJRoDw.png' alt="pyspark" width="80" height="40">
@@ -16,13 +16,15 @@
    <img src="https://d1.awsstatic.com/china/hp/partners/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png" alt="tableau" width="140" height="40"/>
 </p>
 
+<strong align='justify'> Python, SQL, AWS, PySpark, Tableau, Excel, Mathematics & Statistics, R, Azure, Apache, Airflow, MS Power BI, NoSQL, Hadoop, Kafka, ETL Pipelines, Data Warehousing, Database Management, Databricks, Data Quality & Security, Data Modeling, Data Analytics, Apache Spark, Scala </strong>
+
 
 ## Work Experience
 **Data Analytics - Werk Student @ AVL GmbH (_August 2022 - Present_)**
-- Learned skills to conduct in-depth analysis of electric vehicle drive data to refine and improve drive accuracy
-- Utilized Amazon Web Services (AWS) across a range of project requirements, showcasing comprehensive skills in cloud computing, infrastructure deployment, and effective monitoring within the AWS ecosystem
-- Engineered automation scripts using Python for efficient data processing, achieving a 50% reduction in manual effort and saving the team 20 hours per week
-- Worked with OpenSearch NoSQL database for data management, including data creation, updating, and retrieval
+- <p align='justify'> Learned skills to conduct in-depth analysis of electric vehicle drive data to refine and improve drive accuracy </p>
+- <p align='justify'> Utilized Amazon Web Services (AWS) across a range of project requirements, showcasing comprehensive skills in cloud computing, infrastructure deployment, and effective monitoring within the AWS ecosystem </p>
+- <p align='justify'> Engineered automation scripts using Python for efficient data processing, achieving a 50% reduction in manual effort and saving the team 20 hours per week </p>
+- <p align='justify'> Worked with OpenSearch NoSQL database for data management, including data creation, updating, and retrieval </p>
 
 **Thesis - Formalizing MLOps through (Mega)Modeling: A Cloud- Centric Perspective @ University of Koblenz (_July 2023 - Present_)**
 - Contribute to the Machine Learning Operations (MLOps) field through a formal modeling approach, with a particular emphasis on cloud-based environments like AWS, Azure, and Google Cloud Platforms
