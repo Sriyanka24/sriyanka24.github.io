@@ -6,7 +6,7 @@
 
 ---
 
-#### Technical Skills: Advanced Python, SQL, AWS Cloud, PySpark, Tableau, Excel, Mathematics & Statistics, R, Azure, Power BI, NoSQL, Hadoop, Kafka, Git, Jira, Confluence, Data Warehousing, DBMS, Databricks, Data Quality & Security, BigQuery, Data Modeling, Google Analytics
+#### Technical Skills: Python, SQL, AWS, PySpark, Tableau, Excel, Mathematics & Statistics, R, Azure, Apache, Airflow, MS Power BI, NoSQL, Hadoop, Kafka Git, Jira, Confluence, ETL/ELT Development, Data Warehousing, Database Management, Databricks, Data Quality & Security, Data Modeling, Data Analytics, Apache Spark, Map-Reduce, Scala
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
   <img src='https://miro.medium.com/max/3128/1*sQGVLk43kXJTEw1mtJRoDw.png' alt="pyspark" width="80" height="40">
@@ -40,17 +40,17 @@
 
 
 ## Projects
-**Real-Time Stock Market Data Analysis in Python using AWS Services**
+**Real Time Stock Market Data Engineering Project with Apache Kafka, AWS and Python**
 - Conducted an end-to-end Data Engineering project focusing on real-time stock market data analysis utilizing a diverse tech stack, including Python, AWS, Apache Kafka, Glue, Athena, and SQL
 
+**End-To-End Data Engineering Pipeline with Apache Airflow, Python and AWS**
+- Developed data stories and dashboards to understand and identify how discounts affect a company's profits
+  
 **Leveraging AWS Cloud ETL Services to analyse Youtube Trending Video Data**
 - Performed end-to-end ETL and comprehensive data analysis on this interesting data to understand what factors affect how popular a YouTube video will be
 
 **Detection of Missing Lab Tests for Automatic Diagnosis: Machine Learning Research Lab**
 - Developed a model leveraging advanced ML, programming, and mathematical expertise to identify missing epidemiological factors from the clinical records of the patients
-
-**Analyzing a company's sales data to understand the correlation between discounts and profits using dashboards in Tableau**
-- Developed data stories and dashboards to understand and identify how discounts affect a company's profits
    
 
 ## Education
