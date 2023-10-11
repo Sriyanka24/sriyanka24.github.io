@@ -28,7 +28,7 @@
 - <p align='justify'> Develop and apply (Mega)Modeling techniques to MLOps processes, transforming the way Machine Learning models are developed and managed </p>
 
 **Junior Data Analyst - System Engineer @ Infosys (_August 2019 - July 2021_)**
-- <p align='justify'>As a Junior Data Analyst for a US-based retail client, I analyzed company data from nine regions to forecast future trends using Python. I also conducted an insightful analysis of server details in SQL to determine the cost-effectiveness of migrating applications to a cloud platform. Throughout these processes, I meticulously tracked data-related questions and solutions using Excel. Additionally, I contributed to cloud deployments to optimize data management.</p>
+<p align='justify'>As a Junior Data Analyst for a US-based retail client, I analyzed company data from nine regions to forecast future trends using Python. I also conducted an insightful analysis of server details in SQL to determine the cost-effectiveness of migrating applications to a cloud platform. Throughout these processes, I meticulously tracked data-related questions and solutions using Excel. Additionally, I contributed to cloud deployments to optimize data management.</p>
 
 **Data Analytics - Intern @ Infosys (_January 2019 - May 2019_)**
 - <p align='justify'> Developed an end-to-end data analysis automation application using Python to analyze clinical reports </p>
