@@ -7,7 +7,7 @@
 ---
 
 #### Technical Skills: 
-<p align='left'>
+<p align='justify'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="auto" height="40"/>
   <img src='https://miro.medium.com/max/3128/1*sQGVLk43kXJTEw1mtJRoDw.png' alt="pyspark" width="80" height="40">
@@ -16,7 +16,7 @@
   <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="excel" width="40" height="40"/>
 </p>
 
-<strong align='justify'> Python, SQL, AWS, PySpark, Azure, Tableau, Apache Airflow, Excel, Snowflake, Mathematics, Statistics, R, MS Power BI, NoSQL, Hadoop, Apache Kafka, ETL Pipelines, Data Warehousing, Database Management, Azure Databricks, Data Quality & Security, Data Modeling, Data Analytics, Scala, Data Governance </strong>
+<strong align='justify'> Python, SQL, AWS, PySpark, Azure, Tableau, Apache Airflow, Excel, Snowflake, Mathematics, Statistics, R, MS Power BI, NoSQL, Hadoop, Apache Kafka, ETL Pipelines, Data Warehousing, DB Management, Azure Databricks, Data Quality & Security, Data Modeling, Data Analytics, Scala, Data Governance </strong>
 
 
 ## Work Experience
