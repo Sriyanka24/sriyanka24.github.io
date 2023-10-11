@@ -9,7 +9,7 @@
 #### Technical Skills: 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="auto" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="auto" height="40"/>
   <img src='https://miro.medium.com/max/3128/1*sQGVLk43kXJTEw1mtJRoDw.png' alt="pyspark" width="80" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="auto" height="30"/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' height='40' width='auto' alt="sql">
