@@ -36,9 +36,9 @@
 
 
 ## Projects
-**Leveraging Azure Cloud Services to Analyze Tokyo Olympics Data**
+**Leveraging Azure cloud services: End-to-end Data Engineering project on Olympics Dataset**
 - <p align='justify'>Performed end-to-end ETL and implemented data analysis on this interesting data using various Azure services like Data Factory and Databricks to analyze and finally visualize the data using Looker Studio. </p>
-- <p align='justify'> Azure Data Factory | Azure Data Lake Gen 2 | Azure Databricks | Azure Synapse Analytics | Looker Studio. </p>
+- <p align='justify'> Azure Data Factory | Azure Data Lake Gen 2 | Azure Databricks | Apache Spark |Azure Synapse Analytics | Power BI. </p>
 
 **Real Time Stock Market Data Engineering Project with Apache Kafka, AWS and Python**
 - <p align='justify'> Conducted an end-to-end Data Engineering project focusing on real-time stock market data analysis utilizing a diverse tech stack, including Python, AWS, Apache Kafka, Glue, Athena, and SQL </p>
