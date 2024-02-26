@@ -2,7 +2,7 @@
 
 #### Data Analyst | M.Sc. Web and Data Science, University of Koblenz, Germany.
 
-<p align='justify'>Hello and welcome to my portfolio website! I'm a highly dedicated and motivated Data person on the verge of completing my Master's degree in Data Science. With a strong background in data analytics and hands-on experience in tackling complex data engineering challenges, I'm here to showcase my journey and the impactful projects I've undertaken. I thrive on extracting and transforming raw data into actionable insights, enabling data-driven decisions, and making a real difference.</p>
+<p align='justify'>A skilled data analyst with 3 years of experience, pursuing a Master's degree in Data Science, with significant expertise in leveraging advanced data engineering and analytical techniques to extract and transform complex data into actionable insights, driving data-driven decisions, and making a meaningful impact on businesses.</p>
 
 ---
 
@@ -16,16 +16,16 @@
   <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="excel" width="40" height="40"/>
 </p>
 
-<strong align='justify'> Python, SQL, AWS, PySpark, Azure, Tableau, Apache Airflow, Excel, Snowflake, Mathematics, Statistics, R, MS Power BI, NoSQL, Hadoop, Apache Kafka, ETL Pipelines, Data Warehousing, DB Management, Azure Databricks, Data Quality & Security, Data Modeling, Data Analytics, Scala, Data Governance </strong>
+<strong align='justify'> Python, SQL, Azure, PySpark, AWS, Tableau, Apache Airflow, Excel, Statistics, R, MS Power BI, NoSQL, Apache Kafka, ETL/ELT Pipelines, Data Warehousing, DB Management, Azure Databricks, Data Quality & Security, Data Modeling, Data Analytics, Scala, Data Governance </strong>
 
 
 ## Work Experience
-**Data Analytics - Werk Student @ AVL GmbH (_August 2022 - Present_)**
+**Data Analytics - Werk Student @ AVL GmbH (_August 2022 - Oct 2023_)**
 <p align='justify'> Actively contributed to projects focused on improving autonomous vehicle drive accuracy through advanced analysis of automotive data. My expertise extends to cloud computing, encompassing infrastructure deployment and vigilant monitoring within dynamic cloud environments.</p>
 
-**Thesis - Formalizing MLOps through (Mega)Modeling: A Cloud- Centric Perspective @ University of Koblenz (_July 2023 - Present_)**
-- <p align='justify'> Contribute to the Machine Learning Operations (MLOps) field through a formal modeling approach, with a particular emphasis on cloud-based environments like AWS, Azure, and Google Cloud Platforms </p>
-- <p align='justify'> Develop and apply (Mega)Modeling techniques to MLOps processes, transforming the way Machine Learning models are developed and managed </p>
+**Detection of Missing Lab Tests for Clinical Diagnosis - Machine Learning Lab**
+- <p align='justify'> Developed a model leveraging advanced ML, programming, and mathematical expertise to identify missing epidemiological factors from the clinical records of the patients.  </p>
+- <p align='justify'> This model detects a list of missing information (eg: Lab Tests) that is needed to perform an automatic diagnosis using clinical texts as input. </p>
 
 **Junior Data Analyst - System Engineer @ Infosys (_August 2019 - July 2021_)**
 <p align='justify'>As a Junior Data Analyst for a US-based retail client, I analyzed company data from nine regions to forecast future trends using Python. I also conducted an insightful analysis of server details in SQL to determine the cost-effectiveness of migrating applications to a cloud platform. Throughout these processes, I meticulously tracked data-related questions and solutions using Excel. Additionally, I contributed to cloud deployments to optimize data management.</p>
@@ -49,9 +49,12 @@
 **Leveraging AWS Cloud ETL Services to analyse Youtube Trending Video Data**
 - <p align='justify'> Performed end-to-end ETL and comprehensive data analysis on this interesting data to understand what factors affect how popular a YouTube video will be </p>
 
+**Exploring Road Safety: A Deep Dive into the US Accidents Dataset**
+- <p align='justify'> Performed a case study on this huge dataset from Kaggle called "Us accidents dataset" using Python in Google Colab. This dataset has almost 3 million rows which made the process of cleaning, validating, and analyzing more interesting. </p>
+
 ## Education
-- M.Sc. - Web and Data Science | University of Koblenz (_October 2022 - Present_)								       		
-- B.E. - Computer Science Engineering | Anna University (_May 2019_)
+- M.Sc. - Web and Data Science | University of Koblenz (_October 2022 - Present_)  |  Grade: 1.9					       		
+- B.E. - Computer Science Engineering | Anna University (_May 2019_)  |  Grade: 2.14
 
 
 ## Languages
